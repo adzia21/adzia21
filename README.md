@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on B-Game 🎲 project!
 
-👩‍💻 Junior Java Developer in Softiq.<br>
+👩‍💻 Junior Java Developer at Softiq.<br>
 
 🌱 I’m going to learn:           
 * ☕️ more and more Java and Spring!<br>            
